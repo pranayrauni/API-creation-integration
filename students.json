@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "student": "Pranay"
+    },
+    {
+        "id":2,
+        "student":"Navneet"
+    },
+    {
+        "id":3,
+        "student":"Akash"
+    },
+    {
+        "id":4,
+        "student":"Vikas"
+    },
+    {
+        "id":5,
+        "student":"Atul"
+    }
+]
